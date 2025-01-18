@@ -1,3 +1,2 @@
 # js
-
-renren
+test
